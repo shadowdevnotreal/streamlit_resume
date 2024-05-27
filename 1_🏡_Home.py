@@ -17,22 +17,22 @@ profile_pic = current_dir / "assets" / "home" /"profile-pic.png"
 my_zone_pic = current_dir / "assets" / "home" / "my_zone.png"
 
 # ------------ CONSTANTS ----------
-PAGE_TITLE = "Digital CV | Et-tali Mouad"
+PAGE_TITLE = "Digital CV | Michael Slowik"
 PAGE_ICON = ":wave:"
-NAME = "Et-tali Mouad"
+NAME = "Michael Slowik"
 DESCRIPTION = """
-Data Scientist @ Aqsone,  I help clients optimize their performance with AI and data.
+Technology Specialist @ Diatasso LLC,  I help clients with process, communication, and tech.
 """
-EMAIL = "mouad.et-tali@aqsone.com"
+EMAIL = "test@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://www.linkedin.com/in/mouad-et-tali/",
-    "GitHub": "https://github.com/MouadEt-tali"
+    "LinkedIn": "https://www.linkedin.com/in/mykalslow",
+    "GitHub": "https://shadowdevnotreal.github.io/"
 }
 PROJECTS = {
     "🏆 Dimensionality reduction/clustering of data from scientific articles/ wikipedia summaries/news headlines": "https://github.com/MouadEttali/NLP-and-Text_Mining",
     "🏆 Implementation of a neural network for semi-supervised learning to predict MNIST data": "https://github.com/MouadEttali/ComputerVision_DeepLearning/tree/main/PseudoLabelingProject",
     "🏆 Implementation of multiple regression and logistic regression algorithms from the mathematical foundations. ": "https://github.com/MouadEttali/From-scratch-machine-learning---From-mathematical-formulas-to-functioning-algorithms",
-    "🏆 This resume streamlit ": "https://github.com/MouadEttali/streamlit_resume",
+    "🏆 This resume streamlit ": "https://github.com/shadowdevnotreal/streamlit_resume",
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
