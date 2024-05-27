@@ -1,9 +1,11 @@
-# Streamlit Portfolio
+# My Digital CV
 
-this project's goal is to showcase :
+This project's goal is to showcase :
 
-- My experience in the data science field
+- My experience in the tech industry.
 - Skills and background
 - Certifications and trainings 
 
-Ultimatly the pdf resume is starting to look a bit too generic and this is my attempt at making the experience of reading my resume more fluid and enjoyable to you, whoever you are ! have fun.
+The resume is starting to look a bit too generic. This is my attempt at making the experience more fluid and enjoyable to you, whoever you are!
+
+Have fun.
